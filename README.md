@@ -1,1 +1,2 @@
 # Mobile-Price-Range-Prediction-ML-Class
+Mobile price range prediction in this we explore and analyze a dataset which contain 2000 mobile phones specification, and try to predict the optimum price range for list of mobile are present in the market by applying machine learning algorithms such as Logestic Regression, Decision Tree Classifier, Random Forest Classifier, KNN, SVM, XGB to predict the price range indicating how high the price is.
